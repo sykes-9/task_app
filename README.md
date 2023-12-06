@@ -1,0 +1,3 @@
+# task_app
+created a task app with html css and vanilla JavaScript with project...
+You will be able to add task, remove tasks, cancel through completed task and store data in localstorage to not loose data when browser is been refreshed
